@@ -31,6 +31,12 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="30"/>
 </p>
 
+### 🐍 Contribution snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sujith0613/sujith0613/output/github-snake.svg" alt="snake" />
+</p>
+
 ### 📊 Signals
 
 <p align="center">
