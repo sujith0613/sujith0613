@@ -120,8 +120,8 @@ paper in the repo).
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────┐
-│  Go · Python · Rust · TypeScript · Java · FastAPI · Next.js               │
-│  PostgreSQL · MongoDB · Prisma · TensorFlow · PyTorch · Docker            │
+│  Go · Python · TypeScript · Rust · FastAPI · Next.js                     │
+│  PostgreSQL · MongoDB · Prisma · TensorFlow · EMNIST CNN                  │
 └────────────────────────────────────────────────────────────────────────────┘
 ```
 
