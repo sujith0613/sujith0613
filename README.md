@@ -57,7 +57,6 @@ paper in the repo).
 │concurrent worker crashes via mutex discipline + checkpoint protocol.       │
 │                                                                            │
 │HIGHLIGHTS  6 crash-injection paths, 55+ tests, 58% statement coverage      │
-│            SSE dashboard <50ms update latency                              │
 │            Raw WAL log stream viewable from the browser                    │
 │                                                                            │
 │LINKS       github.com/sujith0613/Craxpert                                  │
@@ -112,8 +111,8 @@ paper in the repo).
 │TYPE        Plan-guided BART vs zero-shot LLM biomedical-text simplification │
 │STATUS      PAPER IN REPO — ceurart.cls, references under review            │
 │                                                                            │
-│Custom entity-aware preprocessing for biomedical acronyms & drug names;     │
-│plan-guided BART outperformed zero-shot by ~12% on domain-specific terms.   │
+│Plan-guided BART: 34.30 SARI (main submission). Zero-shot LLaMA-3.1-8B:    │
+│36.29 SARI on validation. Models on HF Hub (winner0613). Raw corpus in repo.│
 └────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -136,4 +135,3 @@ paper in the repo).
 └────────────────────────────────────────────────────────────────────────────┘
 ```
 
-> _terminal profile — ASCII boxes, verified repos, no badge walls, no snake SVGs, no random quotes._
