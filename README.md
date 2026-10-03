@@ -13,13 +13,13 @@
 
 ---
 
-### 🔭 What I'm on
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f52d.svg" height="20"/> What I'm on
 
 - **Systems correctness** — crash-resilient Go job simulator [Craxpert](https://github.com/sujith0613/Craxpert) (WAL, worker-pool scaling, SSE; 55+ tests, 58% coverage)
 - **Applied AI/ML** — [Tokatrons](https://github.com/sujith0613/tokatrons-clef2026-simpletext) CLEF 2026 SimpleText (plan-guided BART, 34.30 SARI) and [ScriboGenie](https://github.com/sujith0613/ScriboGenie) EMNIST CNN tutor
 - **Product** — [NoGainNoPain](https://github.com/sujith0613/NoGainNoPain) food-market intelligence (FastAPI + Next.js, 14 APIs)
 
-### 💻 Stack
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4bb.svg" height="20"/> Stack
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="30"/>
@@ -31,13 +31,13 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="30"/>
 </p>
 
-### 🐍 Contribution snake
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f40d.svg" height="20"/> Contribution snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sujith0613/sujith0613/output/github-snake.svg" alt="snake" />
 </p>
 
-### 📊 Signals
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ca.svg" height="20"/> Signals
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sujith0613&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" />
@@ -47,7 +47,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujith0613&theme=tokyonight&hide_border=false" />
 </p>
 
-### 🏆 Selected work
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3c6.svg" height="20"/> Selected work
 
 | Project | What it does | Evidence |
 |---|---|---|
@@ -56,7 +56,7 @@
 | [Tokatrons](https://github.com/sujith0613/tokatrons-clef2026-simpletext) | Biomedical text simplification | 34.30 SARI, paper in repo |
 | [ScriboGenie](https://github.com/sujith0613/ScriboGenie) | EMNIST CNN handwriting tutor | ResNet CNN, Wacom, espeak TTS, PWA |
 
-### 📫 Reach me
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4eb.svg" height="20"/> Reach me
 
 <p>
   <a href="https://sujith0613.github.io"><img src="https://img.shields.io/badge/portfolio-sujith0613.github.io-0D1117?style=for-the-badge&logo=githubpages"/></a>
