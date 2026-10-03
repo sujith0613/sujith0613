@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1300&color=8AB4F8&center=true&vCenter=true&width=800&lines=Go+systems%C2%B7+AI%2FML%C2%B7+full-stack;CLEF%202026;crash-proof+WALs%2C+real+time+SSE;SSN+CSE%20%C2%B7%20Chennai" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1300&color=8AB4F8&center=true&vCenter=true&width=800&lines=Go+systems%C2%B7+AI%2FML%C2%B7+full-stack;crash-proof+WALs%2C+real+time+SSE;SSN+CSE%20%C2%B7%20Chennai" alt="typing" />
 </p>
 
 <p align="center">
