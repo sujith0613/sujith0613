@@ -1,137 +1,62 @@
-```
-███████╗██╗   ██╗     ██╗██╗████████╗██╗  ██╗
-██╔════╝██║   ██║     ██║██║╚══██╔══╝██║  ██║
-███████╗██║   ██║     ██║██║   ██║   ███████║
-╚════██║██║   ██║██   ██║██║   ██║   ██╔══██║
-███████║╚██████╔╝╚█████╔╝██║   ██║   ██║  ██║
-╚══════╝ ╚═════╝  ╚════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=1400&color=8AB4F8&center=true&vCenter=true&width=700&lines=Sujith.M;Go+systems%C2%B7+AI%2FML%C2%B7+full-stack;CLEF+2026+SimpleText%C2%B7+Tokatrons;ssg+systems+that+stay+correct" alt="typing" />
+</p>
 
-<div align="center">
+<p align="center">
+  <code>CSE @ SSN, Chennai · Open to opportunities, not actively hunting</code>
+</p>
 
-**`BUILDER // SYSTEMS // AI/ML`**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sujith0613&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/stars/sujith0613/Craxpert?style=for-the-badge&logo=github&color=8AB4F8" />
+  <img src="https://img.shields.io/badge/stack-Go%20%C2%B7%20Python%20%C2%B7%20Rust%20%C2%B7%20Next.js-blueviolet" />
+</p>
 
-> `"I build things that stay correct when the system doesn't behave."`
+<pre><code>────────────────────────────────────────────────────────────────</code></pre>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sujith0613&style=flat-square&color=0BD0D9)
-[![Followers](https://img.shields.io/github/followers/sujith0613?style=flat-square&color=8A2BE2&label=FOLLOWERS)](https://github.com/sujith0613?tab=followers)
-[![Stars](https://img.shields.io/github/stars/sujith0613/Craxpert?style=flat-square&color=FF1493&label=CRAXPERT%20STARS)](https://github.com/sujith0613/Craxpert)
+### 🔭 What I'm on
 
-</div>
+- **Systems correctness** — [Craxpert](https://github.com/sujith0613/Craxpert), a crash-resilient Go job simulator with WAL recovery, worker-pool scaling, and an SSE dashboard
+- **Applied AI/ML** — [Tokatrons](https://github.com/sujith0613/tokatrons-clef2026-simpletext) at CLEF 2026 SimpleText (plan-guided BART, 34.30 SARI) and [ScriboGenie](https://github.com/sujith0613/ScriboGenie), EMNIST CNN handwriting-recognition tutor
+- **Product** — [NoGainNoPain](https://github.com/sujith0613/NoGainNoPain), food-market intelligence engine (FastAPI + Next.js, 14 endpoints, SNU Hackathon '26)
 
----
+### Stack
 
-### `> cat /sys/operator/profile`
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
 
-```
-OPERATOR    Sujith.M
-ROLE        Software Engineer (Systems / Applied ML)
-SECTOR      SSN College of Engineering, Chennai, India
-DEGREE      B.E. Computer Science & Engineering
-FOCUS       Go systems · AI/ML · full-stack
-STATUS      ACTIVE — CLEF 2026 SimpleText (Tokatrons)
-UPTIME      Since 2024
-```
+### Signals
 
-CSE student building Go systems, AI/ML, and full-stack products.
-Researching with the Tokatrons team at **CLEF 2026 SimpleText Task 1**
-(biomedical text simplification — plan-guided BART vs zero-shot LLM,
-paper in the repo).
+<p align="center">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=sujith0613&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujith0613&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujith0613&theme=tokyonight&hide_border=false" />
+</p>
 
-### `> cat /sys/flagship`
+### Selected work
 
-```
-┌────────────────────────────────────────────────────────────────────────────┐
-│FLAGSHIP // GO // SYSTEMS                                                   │
-│                                                                            │
-│PROJECT     CRAXPERT                                                        │
-│REPO        github.com/sujith0613/Craxpert                                  │
-│TYPE        High-concurrency job-queue simulator                            │
-│STACK       Go · goroutines · WAL · SSE · web dashboard                     │
-│STATUS      SHIPPED — 55+ tests / 58% coverage                              │
-│                                                                            │
-│Crash-resilient job simulator: write-ahead-log persistence, worker-pool     │
-│scaling, retries, and a real-time SSE dashboard. WAL consistency across     │
-│concurrent worker crashes via mutex discipline + checkpoint protocol.       │
-│                                                                            │
-│HIGHLIGHTS  6 crash-injection paths, 55+ tests, 58% statement coverage      │
-│            Raw WAL log stream viewable from the browser                    │
-│                                                                            │
-│LINKS       github.com/sujith0613/Craxpert                                  │
-└────────────────────────────────────────────────────────────────────────────┘
-```
+| Project | What it does | Evidence |
+|---|---|---|
+| [Craxpert](https://github.com/sujith0613/Craxpert) | Crash-resilient concurrent job simulator with WAL + SSE dashboard | 55+ tests, 58% coverage, 6 crash-injection paths |
+| [NoGainNoPain](https://github.com/sujith0613/NoGainNoPain) | Food-market intelligence: 6-stage NLP pipeline behind 14 APIs | SNU Hackathon 2026, 1200+ records, 7 cities / 15 cuisines |
+| [Tokatrons · CLEF 2026](https://github.com/sujith0613/tokatrons-clef2026-simpletext) | Plan-guided BART vs zero-shot LLM biomedical simplification | 34.30 SARI (main submission), HF Hub winner0613, paper in repo |
+| [ScriboGenie](https://github.com/sujith0613/ScriboGenie) | EMNIST CNN handwriting recognition + dyslexia-aware correction | ResNet CNN, Wacom input, espeak TTS, PWA |
+| [nl2plc-augment](https://github.com/sujith0613/nl2plc-augment) | Curated IEC 61131-3 ST / Rust corpus with auditable provenance | FIRE 2026 NL2PLC, 25 .st + 25 .rs, MANIFEST.csv |
 
-<div align="center">
+### Contact
 
-**[repo → Craxpert](https://github.com/sujith0613/Craxpert)**
-
-</div>
-
-### `> cat /sys/flagship-2`
-
-```
-┌────────────────────────────────────────────────────────────────────────────┐
-│FLAGSHIP // PYTHON · FASTAPI · NEXT.JS // HACKATHON                         │
-│                                                                            │
-│PROJECT     NOGAINNOPAIN                                                    │
-│REPO        github.com/sujith0613/NoGainNoPain                              │
-│EVENT       SNU Hackathon 2026 (48 hours)                                   │
-│TYPE        Food-market intelligence & decision engine                      │
-│STACK       Python · FastAPI · MongoDB · 6-stage NLP pipeline               │
-│STATUS      SHIPPED                                                         │
-│                                                                            │
-│14 REST endpoints, 11 decision modules (pricing, demand, competitor,        │
-│heatmap, scenarios…), 1200+ synthetic records, sentiment-aware decisions.   │
-└────────────────────────────────────────────────────────────────────────────┘
-```
-
-### `> cat /sys/product`
-
-```
-┌────────────────────────────────────────────────────────────────────────────┐
-│PRODUCT     SCRIBOGENIE                                                     │
-│REPO        github.com/sujith0613/ScriboGenie                               │
-│TYPE        Handwriting recognition & dyslexia-assistance system            │
-│STACK       Python · TensorFlow · EMNIST CNN · Wacom · espeak TTS · PWA     │
-│STATUS      SHIPPED                                                         │
-│                                                                            │
-│ResNet-CNN on EMNIST for character recognition; gamified mobile PWA over    │
-│an offline Wi-Fi hotspot; espeak feedback. Pi edition in a second repo.     │
-└────────────────────────────────────────────────────────────────────────────┘
-```
-
-### `> cat /sys/research`
-
-```
-┌────────────────────────────────────────────────────────────────────────────┐
-│RESEARCH    TOKATRONS — CLEF 2026 SIMPLETEXT TASK 1                         │
-│REPO        github.com/sujith0613/tokatrons-clef2026-simpletext             │
-│TYPE        Plan-guided BART vs zero-shot LLM text simplification           │
-│STATUS      PAPER IN REPO — ceurart.cls, references under review            │
-│                                                                            │
-│Plan-guided BART: 34.30 SARI (main submission). Zero-shot LLaMA-3.1-8B:     │
-│36.29 SARI on validation. Models on HF Hub (winner0613). Raw corpus in repo.│
-└────────────────────────────────────────────────────────────────────────────┘
-```
-
-### `> cat /sys/stack`
-
-```
-┌────────────────────────────────────────────────────────────────────────────┐
-│  Go · Python · TypeScript · Rust · FastAPI · Next.js                       │
-│  PostgreSQL · MongoDB · Prisma · TensorFlow · Wacom · espeak TTS           │
-└────────────────────────────────────────────────────────────────────────────┘
-```
-
-### `> cat /sys/contact`
-
-```
-┌────────────────────────────────────────────────────────────────────────────┐
-│  PORTFOLIO   https://sujith0613.github.io                                  │
-│  EMAIL       sujithmaris@gmail.com                                         │
-│  STATUS      Open to opportunities — not actively hunting                  │
-└────────────────────────────────────────────────────────────────────────────┘
-```
-
+<p>
+  <img src="https://img.shields.io/badge/portfolio-sujith0613.github.io-0D1117?style=for-the-badge&logo=githubpages" />
+  <img src="https://img.shields.io/badge/email-sujithmaris@gmail.com-D14836?style=for-the-badge&logo=gmail" />
+</p>
