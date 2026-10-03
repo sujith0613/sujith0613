@@ -9,7 +9,7 @@
 
 <div align="center">
 
-**`BUILDER // SYSTEMS // APPLIED NLP/ML`**
+**`BUILDER // SYSTEMS // AI/ML`**
 
 > `"I build things that stay correct when the system doesn't behave."`
 
@@ -28,12 +28,12 @@ OPERATOR    Sujith.M
 ROLE        Software Engineer (Systems / Applied ML)
 SECTOR      SSN College of Engineering, Chennai, India
 DEGREE      B.E. Computer Science & Engineering
-FOCUS       Go systems · NLP/ML · full-stack
+FOCUS       Go systems · AI/ML · full-stack
 STATUS      ACTIVE — CLEF 2026 SimpleText (Tokatrons)
 UPTIME      Since 2024
 ```
 
-CSE student building Go systems, applied NLP/ML, and full-stack products.
+CSE student building Go systems, AI/ML, and full-stack products.
 Researching with the Tokatrons team at **CLEF 2026 SimpleText Task 1**
 (biomedical text simplification — plan-guided BART vs zero-shot LLM,
 paper in the repo).
