@@ -121,7 +121,7 @@ paper in the repo).
 ```
 ┌────────────────────────────────────────────────────────────────────────────┐
 │  Go · Python · TypeScript · Rust · FastAPI · Next.js                     │
-│  PostgreSQL · MongoDB · Prisma · TensorFlow · EMNIST CNN                  │
+│  PostgreSQL · MongoDB · Prisma · TensorFlow · Wacom · espeak TTS         │
 └────────────────────────────────────────────────────────────────────────────┘
 ```
 
