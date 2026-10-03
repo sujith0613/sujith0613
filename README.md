@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sujith0613&style=flat-square&color=0D1117&label=PROFILE+VIEWS&labelColor=0D1117" />
   <img src="https://img.shields.io/github/stars/sujith0613/Craxpert?style=flat-square&logo=github&color=8AB4F8" />
-  <img src="https://img.shields.io/badge/status-open%20to%20work-3DDC84?style=flat-square" />
+  <img src="https://img.shields.io/badge/status-open%20to%20opportunities-3DDC84?style=flat-square" />
 </p>
 
 ---
