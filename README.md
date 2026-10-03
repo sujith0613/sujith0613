@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sujith0613&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/stars/sujith0613/Craxpert?style=for-the-badge&logo=github&color=8AB4F8" />
-  <img src="https://img.shields.io/badge/stack-Go%20%C2%B7%20Python%20%C2%B7%20Rust%20%C2%B7%20Next.js-blueviolet" />
+  <img src="https://img.shields.io/badge/stack-Go%20%C2%B7%20Python%20%C2%B7%20Next.js-blueviolet" />
 </p>
 
 <pre><code>────────────────────────────────────────────────────────────────</code></pre>
@@ -25,7 +25,6 @@
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -52,7 +51,6 @@
 | [NoGainNoPain](https://github.com/sujith0613/NoGainNoPain) | Food-market intelligence: 6-stage NLP pipeline behind 14 APIs | SNU Hackathon 2026, 1200+ records, 7 cities / 15 cuisines |
 | [Tokatrons · CLEF 2026](https://github.com/sujith0613/tokatrons-clef2026-simpletext) | Plan-guided BART vs zero-shot LLM biomedical simplification | 34.30 SARI (main submission), HF Hub winner0613, paper in repo |
 | [ScriboGenie](https://github.com/sujith0613/ScriboGenie) | EMNIST CNN handwriting recognition + dyslexia-aware correction | ResNet CNN, Wacom input, espeak TTS, PWA |
-| [nl2plc-augment](https://github.com/sujith0613/nl2plc-augment) | Curated IEC 61131-3 ST / Rust corpus with auditable provenance | FIRE 2026 NL2PLC, 25 .st + 25 .rs, MANIFEST.csv |
 
 ### Contact
 
