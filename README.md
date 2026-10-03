@@ -108,7 +108,7 @@ paper in the repo).
 ┌────────────────────────────────────────────────────────────────────────────┐
 │RESEARCH    TOKATRONS — CLEF 2026 SIMPLETEXT TASK 1                         │
 │REPO        github.com/sujith0613/tokatrons-clef2026-simpletext             │
-│TYPE        Plan-guided BART vs zero-shot LLM biomedical-text simplification │
+│TYPE        Plan-guided BART vs zero-shot LLM text simplification          │
 │STATUS      PAPER IN REPO — ceurart.cls, references under review            │
 │                                                                            │
 │Plan-guided BART: 34.30 SARI (main submission). Zero-shot LLaMA-3.1-8B:    │
@@ -120,8 +120,8 @@ paper in the repo).
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────┐
-│  Go · Python · TypeScript · Rust · FastAPI · Next.js                     │
-│  PostgreSQL · MongoDB · Prisma · TensorFlow · Wacom · espeak TTS         │
+│  Go · Python · TypeScript · Rust · FastAPI · Next.js                      │
+│  PostgreSQL · MongoDB · Prisma · TensorFlow · Wacom · espeak TTS          │
 └────────────────────────────────────────────────────────────────────────────┘
 ```
 
