@@ -31,10 +31,10 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="30"/>
 </p>
 
-### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f40d.svg" height="20"/> Contribution snake
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f40d.svg" height="20"/> Contribution trail
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sujith0613/sujith0613/output/github-snake.svg" alt="snake" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=sujith0613&theme=matrix&style=snake" alt="animated contribution heatmap" />
 </p>
 
 ### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ca.svg" height="20"/> Signals
@@ -43,9 +43,7 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sujith0613&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujith0613&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujith0613&theme=tokyonight&hide_border=false" />
-</p>
+
 
 ### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3c6.svg" height="20"/> Selected work
 
