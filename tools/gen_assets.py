@@ -189,12 +189,14 @@ def whoami():
 # ------------------------------------------------------- telemetry strip
 
 def telemetry(days):
-    h = 200
     cols, rows = 53, 7
     box, gap = 10, 4
     grid_w = cols * (box + gap) - gap
     ox = (W - grid_w) / 2
     oy = 66
+    grid_h = rows * (box + gap) - gap
+    # ponytail: h derived from content, not guessed — readout sits 44px under the grid
+    h = oy + grid_h + 60
     hi = max(days) or 1
     total = sum(days)
     best, cur = streaks(days)
@@ -253,8 +255,9 @@ def telemetry(days):
 # ------------------------------------------------------------- projects
 
 PROJECTS = [
+    # evidence strings copied from each repo's own README, not inferred
     ("Craxpert", "concurrent job simulator", "go / wal / sse",
-     "55+ tests  58% coverage  6 crash paths", "https://github.com/sujith0613/Craxpert"),
+     "55+ test cases  58.1% coverage  6 recovery paths", "https://github.com/sujith0613/Craxpert"),
     ("NoGainNoPain", "food-market intelligence", "fastapi / next.js",
      "14 apis  1200+ records  7 cities", "https://github.com/sujith0613/NoGainNoPain"),
     ("Tokatrons", "biomedical text simplification", "pytorch / transformers",
@@ -293,10 +296,12 @@ def projects():
 
 # ---------------------------------------------------------------- stack
 
+# ponytail: every entry verified against github.com/sujith0613/* (languages API
+# or repo files). NoGainNoPain uses MongoDB, not Postgres -> Postgres removed.
 STACK = [
     ("Go", CYAN), ("Python", CYAN), ("TypeScript", CYAN),
-    ("PostgreSQL", MUTED), ("PyTorch", AMBER), ("TensorFlow", AMBER),
-    ("Docker", MUTED), ("FastAPI", MUTED), ("Next.js", MUTED),
+    ("PyTorch", AMBER), ("TensorFlow", AMBER), ("FastAPI", MUTED),
+    ("Next.js", MUTED), ("MongoDB", MUTED), ("Docker", MUTED),
 ]
 
 
